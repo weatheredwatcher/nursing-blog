@@ -7,11 +7,6 @@ logo: 'assets/images/ghost.png'
 class: page-template
 subclass: 'post page'
 ---
+I am a dedicated and compassionate nurse with three years of invaluable experience in the healthcare field, specializing in rehabilitation, diabetes management, heart health, and aftercare for wound and trauma patients. My journey in nursing began with a profound desire to make a positive impact on the lives of those facing health challenges. Over the years, I have honed my skills and knowledge, evolving into a passionate advocate for holistic patient care.
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
-
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
-
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
-
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+My career in rehabilitation nursing has allowed me to witness the incredible resilience of individuals on their journey to recovery. I've had the privilege of working closely with patients who have faced life-altering injuries and illnesses, helping them regain their independence and quality of life. My expertise extends to diabetes management, where I have guided patients in understanding their condition, empowering them to take control of their health through education, medication management, and lifestyle changes. Additionally, my experience in heart health and aftercare for wound and trauma patients has equipped me with the skills to provide comprehensive care and support to individuals during their most vulnerable moments. I am committed to continuously expanding my knowledge and staying updated with the latest advancements in healthcare to offer the best possible care to my patients. My goal is to share my experiences, insights, and expertise through this blog to promote health, wellness, and resilience in individuals facing similar challenges. Thank you for joining me on this journey of healing and empowerment.

@@ -6,14 +6,14 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper2/
+baseurl: /
 
 # Website info
-title: Ghost
-description: The professional publishing platform
-cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
+title: The Empathetic Nurse
+description: a Professional Nurse's Blog
+cover: assets/images/person-heart.jpg
+logo: ##assets/images/blog-icon.png
+logo_dark: ##assets/images/favicon.png
 favicon: assets/images/favicon.png
 CNAME: #add cname for website to be created
 
@@ -67,11 +67,11 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyllt
+username: weatheredwatcher
 repo: jasper2
 branch: master
-relative_source: ../jasper2/
-destination: ../jasper2-pages/
+relative_source: 
+destination: _site
 production_url:  https://jekyllt.github.io/jasper2/
 source_url:  https://github.com/jekyllt/jasper2/
 
